@@ -1,5 +1,6 @@
-# naziv projekta
+# Taboo
+
 - projetnik zadatak SSSS Tehmeha
-- team members: Ime Prezime
+- team members: Filip Regovic
 - programming language: C++
-- description: Opis
+- description: Dva tima igraju igru Taboo.
